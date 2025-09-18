@@ -73,7 +73,7 @@ app:
 
   # Set the name of the custom domain for the application.
   # host: my_custom_domain.io
-  host: easej.tools.host.thasnimhmonline.com
+  # host: easej.tools.host.thasnimhmonline.com
 
   # Set a list of service bindings for the application. The bindings can be
   # provided in two ways: by providing the full crn value of the service
